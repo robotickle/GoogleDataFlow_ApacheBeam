@@ -1,5 +1,6 @@
 **Repo Details**
-https://github.com/GoogleCloudPlatform/training-data-analyst
+Repository for HandsOn with Apache Beam, to create data pipelines, and deploy them on google cloud.
+Languages used are Python and Java.
 
 1. training-data-analyst/courses/data_analysis/lab2/python
 
@@ -33,4 +34,8 @@ https://github.com/GoogleCloudPlatform/training-data-analyst
 - Running Cloud Dataprep jobs (Dataflow behind-the-scenes)
 - associated files
   1. 
+
+*source*
+- https://github.com/GoogleCloudPlatform/training-data-analyst
+- https://cloud.google.com/bigquery/public-data/
 
