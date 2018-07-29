@@ -1,5 +1,5 @@
 **Repo Details**
-Repository for HandsOn with Apache Beam, to create data pipelines, and deploy them on google cloud.
+- Repository for HandsOn with Apache Beam, to create data pipelines, and deploy them on google cloud.
 Languages used are Python and Java.
 
 1. training-data-analyst/courses/data_analysis/lab2/python
@@ -21,7 +21,9 @@ Languages used are Python and Java.
 
 
 **SECTION II**
-
+- Use pipeline options in Dataflow
+- Carry out mapping transformations
+- Carry out reduce aggregations
 
 - associated files
   1. 3.MapReduce_CloudFlow_ApacheBeam.py
@@ -29,11 +31,7 @@ Languages used are Python and Java.
 
 **SECTION III**
 
-- Build a new Flow using Cloud Dataprep
-- Create and chain transformation steps with recipes
-- Running Cloud Dataprep jobs (Dataflow behind-the-scenes)
-- associated files
-  1. 
+Coming Soon.
 
 *source*
 - https://github.com/GoogleCloudPlatform/training-data-analyst
