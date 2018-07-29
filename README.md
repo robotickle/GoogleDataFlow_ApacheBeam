@@ -5,5 +5,5 @@ https://github.com/GoogleCloudPlatform/training-data-analyst
 
 
 **move data to Google DataStore Bucket.
- gsutil cp ../javahelp/src/main/java/com/google/cloud/training/dataanalyst/javahelp/*.java gs://<Unique-Bucket-ID>/javahelp
+ ```gsutil cp ../javahelp/src/main/java/com/google/cloud/training/dataanalyst/javahelp/*.java gs://<Unique-Bucket-ID>/javahelp```
 
